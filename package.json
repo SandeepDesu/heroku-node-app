@@ -1,0 +1,19 @@
+{
+  "name": "heroku-node-app",
+  "version": "1.0.0",
+  "description": "sample node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "sandeep desu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
